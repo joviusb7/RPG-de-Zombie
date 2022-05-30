@@ -1,9 +1,16 @@
+@font-face {
+  font-family: 'Last Beyond';
+  src: url('fonts/Last-Beyond.otf');
+}
+
 body{
   margin: 0 auto;
   padding: 0 auto;
   max-height:  720px;
   max-width: 1280px;
-  width: 100%;  
+  width: 100%;
+  background: gray;
+  font-family: Last Beyond;
 }
 
 .bgimg{
