@@ -1,0 +1,44 @@
+{tela 1 - index(capa)}
+(logo)
+
+{tela 2 - Menu}
+(txt1)
+Se você encontrou esse caderno provavelmente eu estou morto... mas veja pelo lado bom, aqui tem muitas dicas para você sobreviver a um apocalipse zumbi. 
+
+(menu)
+* Diario dos sobreviventes
+* Guia de sobrevivencia
+* Sobreviventes 
+
+(sobre)
+Esse é um jogo de rpg, com campanha hambientada em um apocalipse zumbi que utiliza o sistema (link pro site dos cara)zombie survival.
+
+{tela 3- Diario de sobrevivencia}
+(txt1)
+Dias de sobrevivencia
+
+(txt2)
+Data das sessões 
+
+(txt3)
+Relato das sessões 
+
+{tela 4 - Sobrevivente lista}
+(txt1)
+Nome dos sobreviventes
+
+{tela 5 - Sobreviventes}
+(txt1)           (fotinha)
+nome/profissão
+
+(tx2)
+Bônus
+
+(txt3)                     (txt4)
+Descrição do pernagem      Atributos
+
+
+LINKS:
+https://soft-relation-578.notion.site/HTML-CSS-Class-e799466e9b6b45dca03687aaef15c305
+
+https://replit.com/@JoaoBarros5/Atividade-PraticaCSSEstilo#index.html

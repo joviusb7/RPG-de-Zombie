@@ -1,0 +1,13 @@
+body{
+  margin: 0 auto;
+  padding: 0 auto;
+  max-height:  720px;
+  max-width: 1280px;
+  width: 100%;  
+}
+
+.bgimg{
+  width: 1280px;
+  height: 720px;
+  background-image: url('imagens/caderno.png');
+}
